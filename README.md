@@ -5,3 +5,5 @@ An illusion of water created by manipulating an image with openCV
 [![initial image.](https://github.com/olubiyiontheweb/opencv_water_effect/blob/main/lion.jpg)]
 
 [![final image.](https://github.com/olubiyiontheweb/opencv_water_effect/blob/main/lion_water.jpg)]
+
+[![final image 2](https://github.com/olubiyiontheweb/opencv_water_effect/blob/main/lion_water-col.jpg)]
