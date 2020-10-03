@@ -2,6 +2,6 @@
 
 An illusion of water created by manipulating an image with openCV
 
-[![initial image.](https://github.com/querldox5/shooting_planes/blob/master/lion.jpg)]
+[![initial image.](https://github.com/olubiyiontheweb/opencv_water_effect/blob/main/lion.jpg)]
 
-[![final image.](https://github.com/querldox5/shooting_planes/blob/master/lion_water.jpg)]
+[![final image.](https://github.com/olubiyiontheweb/opencv_water_effect/blob/main/lion_water.jpg)]
